@@ -1,1 +1,2 @@
-# ejercicio-directorios-linux
+# Curso de infraestructura computacional
+
